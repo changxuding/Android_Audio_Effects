@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "lvm_common.h": "c",
+        "vectorarithmetic.h": "c",
+        "bit": "cpp",
+        "lveqnb_coeffs.h": "c",
+        "pk_2i_d32f32cssgss_trc_wra_01_private.h": "c",
+        "lvdbe_coeffs.h": "c",
+        "fo_1i_d16f16css_trc_wra_01_private.h": "c",
+        "bq_2i_d16f16css_trc_wra_01_private.h": "c"
+    }
+}
