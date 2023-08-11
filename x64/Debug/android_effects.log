@@ -1,0 +1,317 @@
+﻿  LVDBE_Control.c
+  LVDBE_Init.c
+  LVDBE_Process.c
+  LVDBE_Tables.c
+  LVM_API_Specials.c
+  LVM_Buffers.c
+  LVM_Control.c
+  LVM_Init.c
+  LVM_Process.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\audio\audio.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LVM_Tables.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(37,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(40,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(43,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(46,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(49,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(52,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(55,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(58,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(61,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(64,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(67,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(70,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(73,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(76,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(79,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(84,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(87,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(90,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(93,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(96,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(99,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(102,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(105,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(108,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(111,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(114,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(117,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(120,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(123,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(126,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(131,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(134,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(137,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(140,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(143,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(146,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(149,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(152,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(155,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(158,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(161,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(164,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(167,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(170,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(173,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(178,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(181,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(184,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(187,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(190,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(193,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(196,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(199,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(202,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(205,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(208,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(211,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(214,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(217,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(220,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(225,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(228,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(231,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(234,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(237,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(240,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(243,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(246,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(249,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(252,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(255,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(258,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(261,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(264,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(267,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(320,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(323,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(326,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(329,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(332,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(335,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(338,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(341,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(344,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(347,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(350,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(353,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(356,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(359,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(362,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(414,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(417,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(420,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(423,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(426,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(429,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(432,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(435,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(438,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(441,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(444,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(447,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(450,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(453,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\bundle\LVM_Tables.c(456,21): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+  Abs_32.c
+  Add2_Sat_16x16.c
+  Add2_Sat_32x32.c
+  AGC_MIX_VOL_2St1Mon_D32_WRA.c
+  BP_1I_D16F16C14_TRC_WRA_01.c
+  BP_1I_D16F16Css_TRC_WRA_01_Init.c
+  BP_1I_D16F32C30_TRC_WRA_01.c
+  BP_1I_D16F32Cll_TRC_WRA_01_Init.c
+  BP_1I_D32F32C30_TRC_WRA_02.c
+  BP_1I_D32F32Cll_TRC_WRA_02_Init.c
+  正在生成代码...
+  正在编译...
+  BQ_1I_D16F16C15_TRC_WRA_01.c
+  BQ_1I_D16F16Css_TRC_WRA_01_Init.c
+  BQ_1I_D16F32C14_TRC_WRA_01.c
+  BQ_1I_D16F32Css_TRC_WRA_01_init.c
+  BQ_2I_D16F16C14_TRC_WRA_01.c
+  BQ_2I_D16F16C15_TRC_WRA_01.c
+  BQ_2I_D16F16Css_TRC_WRA_01_Init.c
+  BQ_2I_D16F32C13_TRC_WRA_01.c
+  BQ_2I_D16F32C14_TRC_WRA_01.c
+  BQ_2I_D16F32C15_TRC_WRA_01.c
+  BQ_2I_D16F32Css_TRC_WRA_01_init.c
+  BQ_2I_D32F32C30_TRC_WRA_01.c
+  BQ_2I_D32F32Cll_TRC_WRA_01_Init.c
+  Copy_16.c
+  Core_MixHard_2St_D32C31_SAT.c
+  Core_MixInSoft_D32C31_SAT.c
+  Core_MixSoft_1St_D32C31_WRA.c
+  dB_to_Lin32.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\common\src\dB_to_Lin32.c(77,16): warning C4244: “=”: 从“double”转换到“LVM_FLOAT”，可能丢失数据
+  DC_2I_D16_TRC_WRA_01.c
+  DC_2I_D16_TRC_WRA_01_Init.c
+  正在生成代码...
+  正在编译...
+  DelayAllPass_Sat_32x16To32.c
+  DelayMix_16x16.c
+  DelayWrite_32.c
+  FO_1I_D16F16C15_TRC_WRA_01.c
+  FO_1I_D16F16Css_TRC_WRA_01_Init.c
+  FO_1I_D32F32C31_TRC_WRA_01.c
+  FO_1I_D32F32Cll_TRC_WRA_01_Init.c
+  FO_2I_D16F32C15_LShx_TRC_WRA_01.c
+  FO_2I_D16F32Css_LShx_TRC_WRA_01_Init.c
+  From2iToMono_16.c
+  From2iToMono_32.c
+  From2iToMS_16x16.c
+  InstAlloc.c
+  Int16LShiftToInt32_16x32.c
+  Int32RShiftToInt16_Sat_32x16.c
+  JoinTo2i_32x32.c
+  LoadConst_16.c
+  LoadConst_32.c
+  LVC_Core_MixHard_1St_2i_D16C31_SAT.c
+  LVC_Core_MixHard_2St_D16C31_SAT.c
+  正在生成代码...
+  正在编译...
+  LVC_Core_MixInSoft_D16C31_SAT.c
+  LVC_Core_MixSoft_1St_2i_D16C31_WRA.c
+  LVC_Core_MixSoft_1St_D16C31_WRA.c
+  LVC_Mixer_GetCurrent.c
+  LVC_Mixer_GetTarget.c
+  LVC_Mixer_Init.c
+  LVC_Mixer_SetTarget.c
+  LVC_Mixer_SetTimeConstant.c
+  LVC_Mixer_VarSlope_SetTimeConstant.c
+  LVC_MixInSoft_D16C31_SAT.c
+  LVC_MixSoft_1St_2i_D16C31_SAT.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\audio\audio.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\changxuDING\source\repos\android_effects\android_10\common\src\LVC_MixSoft_1St_2i_D16C31_SAT.c(113,38): warning C4013: “__builtin_ctz”未定义；假设外部返回 int
+  LVC_MixSoft_1St_D16C31_SAT.c
+  LVC_MixSoft_2St_D16C31_SAT.c
+  LVM_FO_HPF.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\common\src\LVM_FO_HPF.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LVM_FO_LPF.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\common\src\LVM_FO_LPF.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LVM_GetOmega.c
+  LVM_Mixer_TimeConstant.c
+  LVM_Polynomial.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\common\src\LVM_Polynomial.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LVM_Power10.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\common\src\LVM_Power10.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LVM_Timer.c
+  正在生成代码...
+  正在编译...
+  LVM_Timer_Init.c
+  Mac3s_Sat_16x16.c
+  Mac3s_Sat_32x16.c
+  MixInSoft_D32C31_SAT.c
+  MixSoft_1St_D32C31_WRA.c
+  MixSoft_2St_D32C31_SAT.c
+  MonoTo2I_16.c
+  MonoTo2I_32.c
+  MSTo2i_Sat_16x16.c
+  mult3s_16x16.c
+  Mult3s_32x16.c
+  NonLinComp_D16.c
+  PK_2I_D32F32C14G11_TRC_WRA_01.c
+  PK_2I_D32F32C30G11_TRC_WRA_01.c
+  PK_2I_D32F32CllGss_TRC_WRA_01_Init.c
+  PK_2I_D32F32CssGss_TRC_WRA_01_Init.c
+  Shift_Sat_v16xv16.c
+  Shift_Sat_v32xv32.c
+  LVEQNB_CalcCoef.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\eq\LVEQNB_CalcCoef.c(256,40): warning C4244: “=”: 从“double”转换到“LVM_FLOAT”，可能丢失数据
+C:\Users\changxuDING\source\repos\android_effects\android_10\eq\LVEQNB_CalcCoef.c(257,21): warning C4244: “=”: 从“double”转换到“LVM_FLOAT”，可能丢失数据
+C:\Users\changxuDING\source\repos\android_effects\android_10\eq\LVEQNB_CalcCoef.c(258,21): warning C4244: “=”: 从“double”转换到“LVM_FLOAT”，可能丢失数据
+  LVEQNB_Control.c
+  正在生成代码...
+  正在编译...
+  LVEQNB_Init.c
+  LVEQNB_Process.c
+  LVEQNB_Tables.c
+  LVREV_ApplyNewSettings.c
+  LVREV_ClearAudioBuffers.c
+  LVREV_GetControlParameters.c
+  LVREV_GetInstanceHandle.c
+  LVREV_GetMemoryTable.c
+  LVREV_Process.c
+  LVREV_SetControlParameters.c
+  LVREV_Tables.c
+  LVPSA_Control.c
+  LVPSA_Init.c
+  LVPSA_Memory.c
+  LVPSA_Process.c
+  LVPSA_QPD_Init.c
+  LVPSA_QPD_Process.c
+  LVPSA_Tables.c
+  LVCS_BypassMix.c
+  LVCS_Control.c
+  正在生成代码...
+  正在编译...
+  LVCS_Equaliser.c
+  LVCS_Init.c
+  LVCS_Process.c
+  LVCS_ReverbGenerator.c
+  LVCS_StereoEnhancer.c
+  LVCS_Tables.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(39,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(43,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(47,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(51,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(55,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(59,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(63,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(67,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(71,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(81,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(89,5): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(99,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(105,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(111,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(117,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(123,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(129,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(135,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(141,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(147,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(191,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(197,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(203,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(209,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(215,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(221,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(227,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(233,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(239,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(252,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(264,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(273,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(279,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(285,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(291,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(297,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(303,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(309,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(315,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(321,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(335,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(347,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(388,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(394,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(400,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(406,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(412,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(418,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(424,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(430,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(436,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(450,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(462,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(479,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(482,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(485,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening\LVCS_Tables.c(488,1): warning C4305: “初始化”: 从“double”到“LVM_FLOAT”截断
+  lvmtest.c
+C:\Users\changxuDING\source\repos\android_effects\android_10\audio\audio.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\changxuDING\source\repos\android_effects\android_10\test\lvmtest.c(410,12): warning C4244: “return”: 从“float”转换到“int16_t”，可能丢失数据
+  正在生成代码...
+LVC_MixSoft_1St_2i_D16C31_SAT.obj : error LNK2019: 无法解析的外部符号 __builtin_ctz，函数 LVC_MixSoft_1St_MC_float_SAT 中引用了该符号
+C:\Users\changxuDING\source\repos\android_effects\x64\Debug\android_effects.exe : fatal error LNK1120: 1 个无法解析的外部命令

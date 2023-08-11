@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{c4959a2f-a1be-4733-85c1-910c011abce9}</ProjectGuid>
+    <RootNamespace>androideffects</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>BUILD_FLOAT;HIGHER_FS;SUPPORT_MC;_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\changxuDING\source\repos\android_effects\android_10\test;C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening;C:\Users\changxuDING\source\repos\android_effects\android_10\spectrumanalyzer;C:\Users\changxuDING\source\repos\android_effects\android_10\reverb;C:\Users\changxuDING\source\repos\android_effects\android_10\eq;C:\Users\changxuDING\source\repos\android_effects\android_10\common\src;C:\Users\changxuDING\source\repos\android_effects\android_10\common\lib;C:\Users\changxuDING\source\repos\android_effects\android_10\bundle;C:\Users\changxuDING\source\repos\android_effects\android_10\bass;C:\Users\changxuDING\source\repos\android_effects\android_10\audio;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard_C>stdc11</LanguageStandard_C>
+      <OpenMPSupport>false</OpenMPSupport>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>BUILD_FLOAT;HIGHER_FS;SUPPORT_MC;_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\changxuDING\source\repos\android_effects\android_10\test;C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening;C:\Users\changxuDING\source\repos\android_effects\android_10\spectrumanalyzer;C:\Users\changxuDING\source\repos\android_effects\android_10\reverb;C:\Users\changxuDING\source\repos\android_effects\android_10\eq;C:\Users\changxuDING\source\repos\android_effects\android_10\common\src;C:\Users\changxuDING\source\repos\android_effects\android_10\common\lib;C:\Users\changxuDING\source\repos\android_effects\android_10\bundle;C:\Users\changxuDING\source\repos\android_effects\android_10\bass;C:\Users\changxuDING\source\repos\android_effects\android_10\audio;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard_C>stdc11</LanguageStandard_C>
+      <OpenMPSupport>false</OpenMPSupport>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>BUILD_FLOAT;HIGHER_FS;SUPPORT_MC;_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\changxuDING\source\repos\android_effects\android_10\test;C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening;C:\Users\changxuDING\source\repos\android_effects\android_10\spectrumanalyzer;C:\Users\changxuDING\source\repos\android_effects\android_10\reverb;C:\Users\changxuDING\source\repos\android_effects\android_10\eq;C:\Users\changxuDING\source\repos\android_effects\android_10\common\src;C:\Users\changxuDING\source\repos\android_effects\android_10\common\lib;C:\Users\changxuDING\source\repos\android_effects\android_10\bundle;C:\Users\changxuDING\source\repos\android_effects\android_10\bass;C:\Users\changxuDING\source\repos\android_effects\android_10\audio;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard_C>stdc11</LanguageStandard_C>
+      <OpenMPSupport>false</OpenMPSupport>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>BUILD_FLOAT;HIGHER_FS;SUPPORT_MC;_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\changxuDING\source\repos\android_effects\android_10\test;C:\Users\changxuDING\source\repos\android_effects\android_10\stereowidening;C:\Users\changxuDING\source\repos\android_effects\android_10\spectrumanalyzer;C:\Users\changxuDING\source\repos\android_effects\android_10\reverb;C:\Users\changxuDING\source\repos\android_effects\android_10\eq;C:\Users\changxuDING\source\repos\android_effects\android_10\common\src;C:\Users\changxuDING\source\repos\android_effects\android_10\common\lib;C:\Users\changxuDING\source\repos\android_effects\android_10\bundle;C:\Users\changxuDING\source\repos\android_effects\android_10\bass;C:\Users\changxuDING\source\repos\android_effects\android_10\audio;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard_C>stdc11</LanguageStandard_C>
+      <OpenMPSupport>false</OpenMPSupport>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="android_10\audio\audio-base-utils.h" />
+    <ClInclude Include="android_10\audio\audio-base.h" />
+    <ClInclude Include="android_10\audio\audio.h" />
+    <ClInclude Include="android_10\audio\audio_effect-base.h" />
+    <ClInclude Include="android_10\audio\audio_effect.h" />
+    <ClInclude Include="android_10\audio\audio_policy.h" />
+    <ClInclude Include="android_10\bass\LVDBE.h" />
+    <ClInclude Include="android_10\bass\LVDBE_Coeffs.h" />
+    <ClInclude Include="android_10\bass\LVDBE_Private.h" />
+    <ClInclude Include="android_10\bass\LVDBE_Tables.h" />
+    <ClInclude Include="android_10\bundle\LVM.h" />
+    <ClInclude Include="android_10\bundle\LVM_Coeffs.h" />
+    <ClInclude Include="android_10\bundle\LVM_Private.h" />
+    <ClInclude Include="android_10\bundle\LVM_Tables.h" />
+    <ClInclude Include="android_10\common\lib\AGC.h" />
+    <ClInclude Include="android_10\common\lib\BIQUAD.h" />
+    <ClInclude Include="android_10\common\lib\CompLim.h" />
+    <ClInclude Include="android_10\common\lib\Filter.h" />
+    <ClInclude Include="android_10\common\lib\InstAlloc.h" />
+    <ClInclude Include="android_10\common\lib\LVM_Common.h" />
+    <ClInclude Include="android_10\common\lib\LVM_Macros.h" />
+    <ClInclude Include="android_10\common\lib\LVM_Timer.h" />
+    <ClInclude Include="android_10\common\lib\LVM_Types.h" />
+    <ClInclude Include="android_10\common\lib\Mixer.h" />
+    <ClInclude Include="android_10\common\lib\ScalarArithmetic.h" />
+    <ClInclude Include="android_10\common\lib\VectorArithmetic.h" />
+    <ClInclude Include="android_10\common\src\BP_1I_D16F16Css_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\BP_1I_D16F32Cll_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\BP_1I_D32F32Cll_TRC_WRA_02_Private.h" />
+    <ClInclude Include="android_10\common\src\BQ_1I_D16F16Css_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\BQ_1I_D16F32Css_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\BQ_2I_D16F16Css_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\BQ_2I_D16F32Css_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\BQ_2I_D32F32Cll_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\CompLim_private.h" />
+    <ClInclude Include="android_10\common\src\DC_2I_D16_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\Filters.h" />
+    <ClInclude Include="android_10\common\src\FO_1I_D16F16Css_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\FO_1I_D32F32Cll_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\FO_2I_D16F32Css_LShx_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\LVC_Mixer.h" />
+    <ClInclude Include="android_10\common\src\LVC_Mixer_Private.h" />
+    <ClInclude Include="android_10\common\src\LVM_Mixer_FilterCoeffs.h" />
+    <ClInclude Include="android_10\common\src\LVM_Timer_Private.h" />
+    <ClInclude Include="android_10\common\src\Mixer_private.h" />
+    <ClInclude Include="android_10\common\src\PK_2I_D32F32CllGss_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\common\src\PK_2I_D32F32CssGss_TRC_WRA_01_Private.h" />
+    <ClInclude Include="android_10\eq\LVEQNB.h" />
+    <ClInclude Include="android_10\eq\LVEQNB_Coeffs.h" />
+    <ClInclude Include="android_10\eq\LVEQNB_Private.h" />
+    <ClInclude Include="android_10\reverb\effect_environmentalreverb.h" />
+    <ClInclude Include="android_10\reverb\effect_presetreverb.h" />
+    <ClInclude Include="android_10\reverb\LVREV.h" />
+    <ClInclude Include="android_10\reverb\LVREV_Api.h" />
+    <ClInclude Include="android_10\reverb\LVREV_Private.h" />
+    <ClInclude Include="android_10\reverb\LVREV_Tables.h" />
+    <ClInclude Include="android_10\spectrumanalyzer\LVPSA.h" />
+    <ClInclude Include="android_10\spectrumanalyzer\LVPSA_Private.h" />
+    <ClInclude Include="android_10\spectrumanalyzer\LVPSA_QPD.h" />
+    <ClInclude Include="android_10\stereowidening\LVCS.h" />
+    <ClInclude Include="android_10\stereowidening\LVCS_BypassMix.h" />
+    <ClInclude Include="android_10\stereowidening\LVCS_Equaliser.h" />
+    <ClInclude Include="android_10\stereowidening\LVCS_Headphone_Coeffs.h" />
+    <ClInclude Include="android_10\stereowidening\LVCS_Private.h" />
+    <ClInclude Include="android_10\stereowidening\LVCS_ReverbGenerator.h" />
+    <ClInclude Include="android_10\stereowidening\LVCS_StereoEnhancer.h" />
+    <ClInclude Include="android_10\stereowidening\LVCS_Tables.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="android_10\bass\LVDBE_Control.c" />
+    <ClCompile Include="android_10\bass\LVDBE_Init.c" />
+    <ClCompile Include="android_10\bass\LVDBE_Process.c" />
+    <ClCompile Include="android_10\bass\LVDBE_Tables.c" />
+    <ClCompile Include="android_10\bundle\LVM_API_Specials.c" />
+    <ClCompile Include="android_10\bundle\LVM_Buffers.c" />
+    <ClCompile Include="android_10\bundle\LVM_Control.c" />
+    <ClCompile Include="android_10\bundle\LVM_Init.c" />
+    <ClCompile Include="android_10\bundle\LVM_Process.c" />
+    <ClCompile Include="android_10\bundle\LVM_Tables.c" />
+    <ClCompile Include="android_10\common\src\Abs_32.c" />
+    <ClCompile Include="android_10\common\src\Add2_Sat_16x16.c" />
+    <ClCompile Include="android_10\common\src\Add2_Sat_32x32.c" />
+    <ClCompile Include="android_10\common\src\AGC_MIX_VOL_2St1Mon_D32_WRA.c" />
+    <ClCompile Include="android_10\common\src\BP_1I_D16F16C14_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BP_1I_D16F16Css_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\BP_1I_D16F32C30_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BP_1I_D16F32Cll_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\BP_1I_D32F32C30_TRC_WRA_02.c" />
+    <ClCompile Include="android_10\common\src\BP_1I_D32F32Cll_TRC_WRA_02_Init.c" />
+    <ClCompile Include="android_10\common\src\BQ_1I_D16F16C15_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BQ_1I_D16F16Css_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\BQ_1I_D16F32C14_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BQ_1I_D16F32Css_TRC_WRA_01_init.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D16F16C14_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D16F16C15_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D16F16Css_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D16F32C13_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D16F32C14_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D16F32C15_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D16F32Css_TRC_WRA_01_init.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D32F32C30_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\BQ_2I_D32F32Cll_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\Copy_16.c" />
+    <ClCompile Include="android_10\common\src\Core_MixHard_2St_D32C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\Core_MixInSoft_D32C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\Core_MixSoft_1St_D32C31_WRA.c" />
+    <ClCompile Include="android_10\common\src\dB_to_Lin32.c" />
+    <ClCompile Include="android_10\common\src\DC_2I_D16_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\DC_2I_D16_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\DelayAllPass_Sat_32x16To32.c" />
+    <ClCompile Include="android_10\common\src\DelayMix_16x16.c" />
+    <ClCompile Include="android_10\common\src\DelayWrite_32.c" />
+    <ClCompile Include="android_10\common\src\FO_1I_D16F16C15_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\FO_1I_D16F16Css_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\FO_1I_D32F32C31_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\FO_1I_D32F32Cll_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\FO_2I_D16F32C15_LShx_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\FO_2I_D16F32Css_LShx_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\From2iToMono_16.c" />
+    <ClCompile Include="android_10\common\src\From2iToMono_32.c" />
+    <ClCompile Include="android_10\common\src\From2iToMS_16x16.c" />
+    <ClCompile Include="android_10\common\src\InstAlloc.c" />
+    <ClCompile Include="android_10\common\src\Int16LShiftToInt32_16x32.c" />
+    <ClCompile Include="android_10\common\src\Int32RShiftToInt16_Sat_32x16.c" />
+    <ClCompile Include="android_10\common\src\JoinTo2i_32x32.c" />
+    <ClCompile Include="android_10\common\src\LoadConst_16.c" />
+    <ClCompile Include="android_10\common\src\LoadConst_32.c" />
+    <ClCompile Include="android_10\common\src\LVC_Core_MixHard_1St_2i_D16C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\LVC_Core_MixHard_2St_D16C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\LVC_Core_MixInSoft_D16C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\LVC_Core_MixSoft_1St_2i_D16C31_WRA.c" />
+    <ClCompile Include="android_10\common\src\LVC_Core_MixSoft_1St_D16C31_WRA.c" />
+    <ClCompile Include="android_10\common\src\LVC_Mixer_GetCurrent.c" />
+    <ClCompile Include="android_10\common\src\LVC_Mixer_GetTarget.c" />
+    <ClCompile Include="android_10\common\src\LVC_Mixer_Init.c" />
+    <ClCompile Include="android_10\common\src\LVC_Mixer_SetTarget.c" />
+    <ClCompile Include="android_10\common\src\LVC_Mixer_SetTimeConstant.c" />
+    <ClCompile Include="android_10\common\src\LVC_Mixer_VarSlope_SetTimeConstant.c" />
+    <ClCompile Include="android_10\common\src\LVC_MixInSoft_D16C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\LVC_MixSoft_1St_2i_D16C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\LVC_MixSoft_1St_D16C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\LVC_MixSoft_2St_D16C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\LVM_FO_HPF.c" />
+    <ClCompile Include="android_10\common\src\LVM_FO_LPF.c" />
+    <ClCompile Include="android_10\common\src\LVM_GetOmega.c" />
+    <ClCompile Include="android_10\common\src\LVM_Mixer_TimeConstant.c" />
+    <ClCompile Include="android_10\common\src\LVM_Polynomial.c" />
+    <ClCompile Include="android_10\common\src\LVM_Power10.c" />
+    <ClCompile Include="android_10\common\src\LVM_Timer.c" />
+    <ClCompile Include="android_10\common\src\LVM_Timer_Init.c" />
+    <ClCompile Include="android_10\common\src\Mac3s_Sat_16x16.c" />
+    <ClCompile Include="android_10\common\src\Mac3s_Sat_32x16.c" />
+    <ClCompile Include="android_10\common\src\MixInSoft_D32C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\MixSoft_1St_D32C31_WRA.c" />
+    <ClCompile Include="android_10\common\src\MixSoft_2St_D32C31_SAT.c" />
+    <ClCompile Include="android_10\common\src\MonoTo2I_16.c" />
+    <ClCompile Include="android_10\common\src\MonoTo2I_32.c" />
+    <ClCompile Include="android_10\common\src\MSTo2i_Sat_16x16.c" />
+    <ClCompile Include="android_10\common\src\mult3s_16x16.c" />
+    <ClCompile Include="android_10\common\src\Mult3s_32x16.c" />
+    <ClCompile Include="android_10\common\src\NonLinComp_D16.c" />
+    <ClCompile Include="android_10\common\src\PK_2I_D32F32C14G11_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\PK_2I_D32F32C30G11_TRC_WRA_01.c" />
+    <ClCompile Include="android_10\common\src\PK_2I_D32F32CllGss_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\PK_2I_D32F32CssGss_TRC_WRA_01_Init.c" />
+    <ClCompile Include="android_10\common\src\Shift_Sat_v16xv16.c" />
+    <ClCompile Include="android_10\common\src\Shift_Sat_v32xv32.c" />
+    <ClCompile Include="android_10\eq\LVEQNB_CalcCoef.c" />
+    <ClCompile Include="android_10\eq\LVEQNB_Control.c" />
+    <ClCompile Include="android_10\eq\LVEQNB_Init.c" />
+    <ClCompile Include="android_10\eq\LVEQNB_Process.c" />
+    <ClCompile Include="android_10\eq\LVEQNB_Tables.c" />
+    <ClCompile Include="android_10\reverb\LVREV_Api.c" />
+    <ClCompile Include="android_10\reverb\LVREV_ApplyNewSettings.c" />
+    <ClCompile Include="android_10\reverb\LVREV_ClearAudioBuffers.c" />
+    <ClCompile Include="android_10\reverb\LVREV_GetControlParameters.c" />
+    <ClCompile Include="android_10\reverb\LVREV_GetInstanceHandle.c" />
+    <ClCompile Include="android_10\reverb\LVREV_GetMemoryTable.c" />
+    <ClCompile Include="android_10\reverb\LVREV_Process.c" />
+    <ClCompile Include="android_10\reverb\LVREV_SetControlParameters.c" />
+    <ClCompile Include="android_10\reverb\LVREV_Tables.c" />
+    <ClCompile Include="android_10\spectrumanalyzer\LVPSA_Control.c" />
+    <ClCompile Include="android_10\spectrumanalyzer\LVPSA_Init.c" />
+    <ClCompile Include="android_10\spectrumanalyzer\LVPSA_Memory.c" />
+    <ClCompile Include="android_10\spectrumanalyzer\LVPSA_Process.c" />
+    <ClCompile Include="android_10\spectrumanalyzer\LVPSA_QPD_Init.c" />
+    <ClCompile Include="android_10\spectrumanalyzer\LVPSA_QPD_Process.c" />
+    <ClCompile Include="android_10\spectrumanalyzer\LVPSA_Tables.c" />
+    <ClCompile Include="android_10\stereowidening\LVCS_BypassMix.c" />
+    <ClCompile Include="android_10\stereowidening\LVCS_Control.c" />
+    <ClCompile Include="android_10\stereowidening\LVCS_Equaliser.c" />
+    <ClCompile Include="android_10\stereowidening\LVCS_Init.c" />
+    <ClCompile Include="android_10\stereowidening\LVCS_Process.c" />
+    <ClCompile Include="android_10\stereowidening\LVCS_ReverbGenerator.c" />
+    <ClCompile Include="android_10\stereowidening\LVCS_StereoEnhancer.c" />
+    <ClCompile Include="android_10\stereowidening\LVCS_Tables.c" />
+    <ClCompile Include="android_10\test\reverb_test.c" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

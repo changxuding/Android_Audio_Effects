@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "primitives.h": "c",
+        "audio-base.h": "c",
+        "effectsmath.h": "c",
+        "stdlib.h": "c",
+        "inttypes.h": "c",
+        "assert.h": "c",
+        "lvrev.h": "c",
+        "audio_effect.h": "c",
+        "effect_environmentalreverb.h": "c"
+    }
+}
